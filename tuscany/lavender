@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Tuscany Lavender Fields</title>
+    <style>
+      body {
+        margin: 0 15%;
+        margin-top: 30px;
+        }
+    </style>
+  </head>
+  
+  <body>
+    <p><img src="photos/lavender.jpg" alt="Fragrant lavender." width="500" height="375"></p>
+  </body>
+  
+</html>

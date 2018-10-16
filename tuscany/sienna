@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title>Tuscany Sienna</title>
+    <style>
+      body {
+        margin: 0 15%;
+        margin-top: 30px;
+        }
+    </style>
+  </head>
+  
+  <body>
+    <p><img src="photos/sienna.jpg" alt="A narrow street. Looks shady, like someplace you'd get shanked." width="375" height="500"></p>
+  </body>
+  
+</html>

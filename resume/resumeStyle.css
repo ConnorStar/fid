@@ -1,7 +1,8 @@
 body{background-color: #35033d;
 	margin: 0 15%;}
 
-h1{text-align: center;
+h1{font-weight: normal;
+	text-align: center;
 	color: #e5d0ef;}
 
 h2{color: #d0e0ef;}
